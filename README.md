@@ -1093,6 +1093,9 @@ Web端在登录页面输入你的**认证码**即可登录使用；API端需要�
   
 - **Sponsors**：感谢以下赞助者对本项目的支持！
 **赞助声明✨✨✨，非常感谢！**
+🧡 Sponsorship Acknowledgement
+This project is proudly powered by the "Free VPS for Open Source Projects" program from VTEXS.
+Many thanks to VTEXS for their generous support of the open-source community!
 本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
 感谢 VTEXS 对开源社区的支持!
 
